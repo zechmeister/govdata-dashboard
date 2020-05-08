@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68fb7d901888da3aa0ea74d4463b841c",
+    "revision": "74aafa4fb30402c9c860dd54e5b0c582",
     "url": "/govdata-dashboard/index.html"
   },
   {
-    "revision": "0c4876a2c27570f1c361",
+    "revision": "220d5d6b4ab4a6e59f02",
     "url": "/govdata-dashboard/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/govdata-dashboard/static/js/2.14ccff68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c4876a2c27570f1c361",
-    "url": "/govdata-dashboard/static/js/main.4230f050.chunk.js"
+    "revision": "220d5d6b4ab4a6e59f02",
+    "url": "/govdata-dashboard/static/js/main.3d2d18e3.chunk.js"
   },
   {
     "revision": "01541f7dd8add25d318c",
