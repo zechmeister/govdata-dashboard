@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/govdata-dashboard/static/css/main.5f361e03.chunk.css",
+    "main.js": "/govdata-dashboard/static/js/main.d64656a1.chunk.js",
+    "main.js.map": "/govdata-dashboard/static/js/main.d64656a1.chunk.js.map",
+    "runtime-main.js": "/govdata-dashboard/static/js/runtime-main.60c3530a.js",
+    "runtime-main.js.map": "/govdata-dashboard/static/js/runtime-main.60c3530a.js.map",
+    "static/js/2.6a266f7d.chunk.js": "/govdata-dashboard/static/js/2.6a266f7d.chunk.js",
+    "static/js/2.6a266f7d.chunk.js.map": "/govdata-dashboard/static/js/2.6a266f7d.chunk.js.map",
+    "index.html": "/govdata-dashboard/index.html",
+    "precache-manifest.292d0f1ca9aeecf1fcb80bb70053dff2.js": "/govdata-dashboard/precache-manifest.292d0f1ca9aeecf1fcb80bb70053dff2.js",
+    "service-worker.js": "/govdata-dashboard/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/govdata-dashboard/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6a266f7d.chunk.js.LICENSE.txt": "/govdata-dashboard/static/js/2.6a266f7d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/govdata-dashboard/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60c3530a.js",
+    "static/js/2.6a266f7d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d64656a1.chunk.js"
+  ]
+}
