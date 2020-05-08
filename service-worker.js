@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/govdata-dashboard/precache-manifest.fc9117d1b25e6c2381181fac43e5e689.js"
+  "/govdata-dashboard/precache-manifest.1ebb42466e1b78dc117190c5ed6728f1.js"
 );
 
 self.addEventListener('message', (event) => {
